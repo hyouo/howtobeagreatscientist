@@ -2,24 +2,32 @@
 
 这里收录 12 篇（或部）对科研实践影响深远的文本。条目按首次发表或演讲年代排列。中文内容是导读，不是原文翻译。
 
+[返回首页](../README.md) · [现代研究实践导读](modern-research.md) · [研究练习模板](../guides/research-practice.md)
+
+“核心观点”概括作者主张；“今天怎样使用”与“局限与提醒”包含整理者的实践建议和当代评价。
+
 > 阅读提示：不要只摘一句“金句”。先判断作者在回答什么问题，再比较它与自己的学科、研究阶段和制度环境是否相配。
 
 ## 目录
 
-1. Claude Bernard — *Introduction à l'étude de la médecine expérimentale*（1865）
-2. T. C. Chamberlin — *The Method of Multiple Working Hypotheses*（1890）
-3. Santiago Ramón y Cajal — *Reglas y consejos sobre investigación científica*（1897/1899）
-4. Max Weber — *Wissenschaft als Beruf / Science as a Vocation*（1917/1919）
-5. Vannevar Bush — *Science—The Endless Frontier*（1945）
-6. John R. Platt — *Strong Inference*（1964）
-7. Richard P. Feynman — *Cargo Cult Science*（1974）
-8. Richard W. Hamming — *You and Your Research*（1986）
-9. George D. Gopen & Judith A. Swan — *The Science of Scientific Writing*（1990）
-10. George M. Whitesides — *Whitesides' Group: Writing a Paper*（2004）
-11. Martin A. Schwartz — *The Importance of Stupidity in Scientific Research*（2008）
-12. Uri Alon — *How to Choose a Good Scientific Problem*（2009）
+1. [Claude Bernard — *Introduction à l'étude de la médecine expérimentale*（1865）](#bernard)
+2. [T. C. Chamberlin — *The Method of Multiple Working Hypotheses*（1890）](#chamberlin)
+3. [Santiago Ramón y Cajal — *Reglas y consejos sobre investigación científica*（1897/1899）](#cajal)
+4. [Max Weber — *Wissenschaft als Beruf / Science as a Vocation*（1917/1919）](#weber)
+5. [Vannevar Bush — *Science—The Endless Frontier*（1945）](#bush)
+6. [John R. Platt — *Strong Inference*（1964）](#platt)
+7. [Richard P. Feynman — *Cargo Cult Science*（1974）](#feynman)
+8. [Richard W. Hamming — *You and Your Research*（1986）](#hamming)
+9. [George D. Gopen & Judith A. Swan — *The Science of Scientific Writing*（1990）](#writing)
+10. [George M. Whitesides — *Whitesides' Group: Writing a Paper*（2004）](#whitesides)
+11. [Martin A. Schwartz — *The Importance of Stupidity in Scientific Research*（2008）](#schwartz)
+12. [Uri Alon — *How to Choose a Good Scientific Problem*（2009）](#alon)
+
+[四周阅读路线](#reading-plan) · [待扩展方向](#future-topics) · [版本与版权说明](#versions)
 
 ---
+
+<a id="bernard"></a>
 
 ## 1. Claude Bernard — *Introduction à l'étude de la médecine expérimentale*
 
@@ -42,9 +50,11 @@ Bernard 区分“看到现象”与“主动改变条件来检验解释”。观
 
 19 世纪实验生理学强调可控条件和确定性；面对复杂系统、概率模型与观察性研究时，需要结合现代统计推断和因果推断方法阅读。
 
-**版权提示**：链接指向 Gutenberg 收录的法文原作。其他语言的现代译本可能仍受版权保护。
+**版权提示**：Gutenberg 将所收录法文版本标为在美国公版；这不代表所有司法辖区和译本的状态。本仓库仅提供导读与链接。
 
 ---
+
+<a id="chamberlin"></a>
 
 ## 2. T. C. Chamberlin — *The Method of Multiple Working Hypotheses*
 
@@ -71,6 +81,8 @@ Bernard 区分“看到现象”与“主动改变条件来检验解释”。观
 
 ---
 
+<a id="cajal"></a>
+
 ## 3. Santiago Ramón y Cajal — *Reglas y consejos sobre investigación científica*
 
 - **中文参考名**：《科学研究的规则与建议》；现代英译常题为 *Advice for a Young Investigator*
@@ -93,9 +105,11 @@ Cajal 反对把科研成就完全归因于天赋。他强调长期训练、技�
 
 书中部分职业、性别和社会观念属于其时代。阅读时应保留关于训练与毅力的洞见，同时明确拒绝已经过时的偏见。
 
-**版权提示**：西班牙文原作由 Gutenberg 标为公版；MIT Press 的现代英译本受版权保护。
+**版权提示**：Gutenberg 将所收录西班牙文版本标为在美国公版；MIT Press 的现代英译本有独立版权。本仓库仅提供导读与链接。
 
 ---
+
+<a id="weber"></a>
 
 ## 4. Max Weber — *Wissenschaft als Beruf / Science as a Vocation*
 
@@ -122,6 +136,8 @@ Weber 把科学描述为高度专业化、需要激情与纪律、又离不开�
 
 ---
 
+<a id="bush"></a>
+
 ## 5. Vannevar Bush — *Science—The Endless Frontier*
 
 - **中文参考名**：《科学：无尽的前沿》
@@ -146,6 +162,8 @@ Weber 把科学描述为高度专业化、需要激情与纪律、又离不开�
 **版权提示**：1945 年原始美国政府报告通常属于美国公版；周年版中的新增前言、设计和编排需另行判断。
 
 ---
+
+<a id="platt"></a>
 
 ## 6. John R. Platt — *Strong Inference*
 
@@ -172,6 +190,8 @@ Platt 将 Chamberlin 的多重假说推进成一个循环：提出可替代的�
 
 ---
 
+<a id="feynman"></a>
+
 ## 7. Richard P. Feynman — *Cargo Cult Science*
 
 - **中文参考名**：《货物崇拜式科学》
@@ -196,6 +216,8 @@ Feynman 区分科学的外在形式与内在诚实：实验、术语和仪器都
 **版权提示**：链接指向 Caltech 档案页面，本仓库不复制全文。
 
 ---
+
+<a id="hamming"></a>
 
 ## 8. Richard W. Hamming — *You and Your Research*
 
@@ -222,6 +244,8 @@ Hamming 讨论优秀研究为何不仅依赖聪明：研究者需要持续关注
 
 ---
 
+<a id="writing"></a>
+
 ## 9. George D. Gopen & Judith A. Swan — *The Science of Scientific Writing*
 
 - **中文参考名**：《科学写作的科学》
@@ -247,6 +271,8 @@ Hamming 讨论优秀研究为何不仅依赖聪明：研究者需要持续关注
 
 ---
 
+<a id="whitesides"></a>
+
 ## 10. George M. Whitesides — *Whitesides' Group: Writing a Paper*
 
 - **中文参考名**：《Whitesides 课题组：如何写论文》
@@ -260,7 +286,7 @@ Hamming 讨论优秀研究为何不仅依赖聪明：研究者需要持续关注
 
 ### 今天怎样使用
 
-- 在实验全面展开前，先画出理想情况下论文需要的核心图表。
+- 在实验全面展开前，先列出回答问题所需的图表及其数据需求；草图只表达设计，不预填预期结果。
 - 用一句话写每幅图回答的问题，以及它如何改变结论。
 - 先稳定逻辑和证据，再润色句子；不要用漂亮文字掩盖结构缺口。
 
@@ -271,6 +297,8 @@ Hamming 讨论优秀研究为何不仅依赖聪明：研究者需要持续关注
 **版权提示**：原文由期刊出版；本仓库不镜像全文。
 
 ---
+
+<a id="schwartz"></a>
 
 ## 11. Martin A. Schwartz — *The Importance of Stupidity in Scientific Research*
 
@@ -297,59 +325,80 @@ Hamming 讨论优秀研究为何不仅依赖聪明：研究者需要持续关注
 
 ---
 
+<a id="alon"></a>
+
 ## 12. Uri Alon — *How to Choose a Good Scientific Problem*
 
 - **中文参考名**：《如何选择一个好的科学问题》
 - **年代**：2009
-- **主题**：问题选择、兴趣与可行性、导师的培养责任
-- **原文入口**：[Molecular Cell](https://www.cell.com/molecular-cell/fulltext/S1097-2765%2809%2900641-8) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/19782018/)
+- **主题**：问题选择、知识增益与可行性、个人兴趣及导师的培养责任
+- **原文入口**：[Molecular Cell](https://www.cell.com/molecular-cell/fulltext/S1097-2765%2809%2900641-8) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/19782018/) · [作者机构保存的校样 PDF](https://www.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/uploads/nurturing/howtochoosegoodproblem.pdf)
+- **版本说明**：DOI 为 `10.1016/j.molcel.2009.09.013`；作者机构 PDF 标有 in press，正式引用以期刊版本为准。
 
 ### 核心观点
 
-Alon 把问题选择看成培养过程，而不只是寻找最容易发表的题目。一个好问题要同时考虑研究者的真实兴趣、当前可行性、长期成长和潜在知识价值。研究进入困惑期并不必然表示选错题，它可能是原创工作中不可避免的阶段。
+Alon 把问题选择看成培养过程。他的选题图以“可行性”和“interest”为两轴，其中 interest 首先指项目预期增加的可检验知识；如何判断这些知识有趣，又带有研究者个人的价值和兴趣。选择还取决于训练阶段、资源和成长需要。研究进入困惑期并不必然表示选错题，它可能是原创工作中不可避免的阶段。
 
 ### 今天怎样使用
 
-- 用“兴趣”和“可行性”两条轴给候选问题定位，并讨论它们随时间如何变化。
+- 用“预期知识增益”和“可行性”比较候选问题，再单独写下个人兴趣与训练价值，避免混为一个分数。
 - 为高风险问题设计低成本探针，尽早获得能改变方向的信息。
 - 导师分配项目时考虑学生的成长曲线，而不只考虑课题组产出。
 
 ### 局限与提醒
 
-兴趣—可行性图是讨论工具，不是打分公式。问题的重要性、伦理、资源、公平性和机会成本也应进入决策。
+这张图适合支持讨论，不能替代具体证据或直接生成选题排名。知识价值的判断有主观性；伦理、资源、公平性和机会成本也应进入决策。
 
 **版权提示**：期刊文章受其出版条款约束，本仓库不复制全文。
 
 ---
 
-# 一条四周阅读路线
+<a id="reading-plan"></a>
 
-## 第 1 周：研究者与职业
+## 一条四周阅读路线
+
+每周选择一个自己的项目贯穿练习。以下产出由整理者设计，可按研究进度调整，不要求四周内完成研究本身。
+
+### 第 1 周：研究者与职业
 
 读 Cajal、Weber、Hamming。写一页研究自传：你被什么问题吸引、拥有哪些可训练的优势、当前环境提供和限制了什么。
 
-## 第 2 周：从解释到检验
+完成标准：列出一个长期问题、一项近期可训练的能力，以及一项需要环境或合作者支持的条件。
+
+### 第 2 周：从解释到检验
 
 读 Bernard、Chamberlin、Platt。选自己的一个项目，制作“竞争性解释—可观察预测—判别实验”表。
 
-## 第 3 周：诚信与未知
+使用[竞争性解释模板](../guides/research-practice.md#hypotheses)。完成标准：能说明至少一个结果会让两个解释得到不同程度的支持，也能指出这个检验区分不了什么。
+
+### 第 3 周：诚信与未知
 
 读 Feynman、Schwartz、Alon。分别列出项目中最容易自我欺骗的环节、真正未知的部分，以及一次低成本方向检验。
 
-## 第 4 周：把证据写成论证
+使用[选题卡](../guides/research-practice.md#project-card)和[分析变更记录](../guides/research-practice.md#analysis-plan)。完成标准：写明继续、调整或暂停项目各需要看到什么证据。
+
+### 第 4 周：把证据写成论证
 
 读 Gopen & Swan、Whitesides、Bush。重画一篇论文的证据链，并补写其人才、基础设施或社会层面的外溢价值。
 
-# 待扩展方向
+使用[主张与证据表](../guides/research-practice.md#evidence)。完成标准：请一位同伴指出证据最薄弱的一项主张，并据此修改表述或补充研究计划。
 
-- 团队科学与实验室文化
-- 统计推断、因果推断与模型检验
-- 开放科学、复现与科研诚信制度
+<a id="future-topics"></a>
+
+## 待扩展方向
+
+[现代研究实践导读](modern-research.md)已补充团队科学、统计解释、预注册、计算复现、数据管理和屠呦呦的研究案例。下面仍有明显空缺：
+
+- 不同规模团队中的导师制、权力关系与实验室文化
+- 测量、因果推断、模型检验及其学科差异
+- 独立重复研究、注册报告与科研诚信制度的效果及局限
 - 田野研究、定性研究和跨学科合作
 - 科研失败、项目终止和职业多样性
 - 中文科学家的科研方法与学术回忆录
 
-# 版本与版权说明
+<a id="versions"></a>
+
+## 版本与版权说明
 
 - 本文中的中文导读为仓库整理稿，未逐句翻译原文。
 - 原文标题、作者和出版信息用于识别与评论相应作品。
